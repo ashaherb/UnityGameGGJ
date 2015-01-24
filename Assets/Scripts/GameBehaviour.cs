@@ -3,7 +3,7 @@ using System.Collections;
 
 public class GameBehaviour : MonoBehaviour {
 
-	private GameObject elemScore;
+	//private GameObject elemScore;
 	// Use this for initialization
 	void Start () {
 		/*elemScore = GameObject.Find("guiScore");*/
@@ -11,7 +11,7 @@ public class GameBehaviour : MonoBehaviour {
 	void OnGUI() {
 		GUILayout.BeginArea( new Rect( Screen.width / 2 - 100, Screen.height / 2 - 100, 200, 200) );
 		GUILayout.FlexibleSpace();
-		
+
 		Screen.orientation = ScreenOrientation.Portrait;
 
 		GUILayout.FlexibleSpace();
