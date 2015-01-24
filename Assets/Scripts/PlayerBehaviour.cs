@@ -22,8 +22,11 @@ public class PlayerBehaviour : MonoBehaviour {
 			float vblock = (int)( (Input.mousePosition.y/Screen.height) / (1/(float)verticalBlocks) );
 			
 			float xcoor = Screen.width / (horizontalBlocks*2) + (Screen.width/horizontalBlocks) * (hblock - 2);
-			float ycoor = Screen.height / (verticalBlocks*2) + (Screen.height/verticalBlocks) * (vblock - 2);
-
+			if (hblock == 3)xcoor += 25;
+			else if(hblock==0)xcoor-=25;
+			float ycoor = Screen.height / (verticalBlocks*4) + (Screen.height/verticalBlocks) * (vblock - 2.5F);
+			print (Screen.width);
+			print (xcoor + " - " + ycoor);
 			CharMove(xcoor,ycoor);
 		}
 	}
