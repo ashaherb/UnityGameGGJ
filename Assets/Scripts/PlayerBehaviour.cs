@@ -31,5 +31,6 @@ public class PlayerBehaviour : MonoBehaviour {
 		elemScore = GameObject.Find("character");
 		Vector3 endMarker = new Vector3(xcoor,ycoor,0);
 		iTween.MoveTo(elemScore,endMarker,1);
+		elemScore.audio.Play ();
 	}
 }
