@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: ec5af707013c24e4097f780ca1ffed18
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Untitled-5_0
+    21300002: Untitled-5_11
+    21300004: Untitled-5_12
+    21300006: Untitled-5_13
+    21300008: Untitled-5_14
+    21300010: Untitled-5_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Untitled-5_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 3017
+        height: 3830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-5_11
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 1379
+        width: 603
+        height: 1218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-5_12
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3167
+        width: 703
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-5_13
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 3135
+        width: 1087
+        height: 232
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-5_14
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2727
+        width: 1518
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Untitled-5_15
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 3488
+        width: 1887
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
