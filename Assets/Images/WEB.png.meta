@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: c3fee8b2f88b3e448b2d0ab0f60ebe82
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WEB_0
+    21300002: WEB_1
+    21300004: WEB_2
+    21300006: WEB_3
+    21300008: WEB_4
+    21300010: WEB_5
+    21300012: WEB_6
+    21300014: WEB_7
+    21300016: WEB_8
+    21300018: WEB_9
+    21300020: WEB_10
+    21300022: WEB_11
+    21300024: WEB_12
+    21300026: WEB_13
+    21300028: WEB_14
+    21300030: WEB_15
+    21300032: WEB_16
+    21300034: WEB_17
+    21300036: WEB_18
+    21300038: WEB_19
+    21300040: WEB_20
+    21300042: WEB_21
+    21300044: WEB_22
+    21300046: WEB_23
+    21300048: WEB_24
+    21300050: WEB_25
+    21300052: WEB_26
+    21300054: WEB_27
+    21300056: WEB_28
+    21300058: WEB_29
+    21300060: WEB_30
+    21300062: WEB_31
+    21300064: WEB_32
+    21300066: WEB_33
+    21300068: WEB_34
+    21300070: WEB_35
+    21300072: WEB_36
+    21300074: WEB_37
+    21300076: WEB_38
+    21300078: WEB_39
+    21300080: WEB_40
+    21300082: WEB_41
+    21300084: WEB_42
+    21300086: WEB_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WEB_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 349
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 349
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 349
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 349
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 349
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_5
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 349
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_6
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 349
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 357
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_8
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 357
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_9
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 357
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_10
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 358
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 233
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 233
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 233
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 233
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 233
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 233
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 233
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 245
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_19
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 245
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_20
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 245
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_21
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 245
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 115
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 115
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 115
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 115
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 115
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_28
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 115
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_29
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 117
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 117
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_31
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 117
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_32
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 117
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_37
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_39
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_40
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_41
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_42
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WEB_43
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
