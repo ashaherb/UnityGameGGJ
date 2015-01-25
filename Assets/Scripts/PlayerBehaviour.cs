@@ -5,14 +5,16 @@ using UnityEngine.UI;
 public class PlayerBehaviour : MonoBehaviour {
 
 	Text txt;
-	private GameObject elemScore;
+	private GameObject elemChar;
 	static int horizontalBlocks = 4;
 	static int verticalBlocks = 5;
 	private int currentscore=0;
 	// Use this for initialization
 	void Start () {	
 		txt = gameObject.GetComponent<Text>();
+		elemChar = GameObject.Find("character");
 	}
+
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetMouseButtonDown(0)) {
@@ -29,11 +31,15 @@ public class PlayerBehaviour : MonoBehaviour {
 			print (xcoor + " - " + ycoor);
 			CharMove(xcoor,ycoor);
 		}
+		if (elemChar.transform.position.y < (Screen.height/2)*(-1)) {
+			print("Halleloya");
+		}else
+			print (elemChar.transform.position.y);
 	}
 	void CharMove(float xcoor , float ycoor){
-		elemScore = GameObject.Find("character");
+
 		Vector3 endMarker = new Vector3(xcoor,ycoor,0);
-		iTween.MoveTo(elemScore,endMarker,1);
-		elemScore.audio.Play ();
+		iTween.MoveTo(elemChar,endMarker,1);
+		elemChar.audio.Play ();
 	}
 }
