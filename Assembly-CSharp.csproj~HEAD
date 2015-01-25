@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD:Assembly-CSharp.csproj
      <Compile Include="Assets\DestroyBasic.cs" />
      <Compile Include="Assets\GUITest.cs" />
      <Compile Include="Assets\Scripts\Bird.cs" />
@@ -55,8 +56,16 @@
      <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
      <Compile Include="Assets\Scripts\statecontrol.cs" />
      <Compile Include="Assets\groundmotion.cs" />
+=======
+     <Compile Include="Assets\GUITest.cs" />
+>>>>>>> f068f0cd3ba915a9cbe7f5a3cf9263e5e07ef292:Assembly-CSharp.csproj~HEAD
      <Compile Include="Assets\navigation.cs" />
-     <Compile Include="Assets\tester.cs" />
+     <Compile Include="Assets\scripts\Bird.cs" />
+     <Compile Include="Assets\scripts\GameBehaviour.cs" />
+     <Compile Include="Assets\scripts\GameManager.cs" />
+     <Compile Include="Assets\scripts\Map.cs" />
+     <Compile Include="Assets\scripts\PlayerBehaviour.cs" />
+     <Compile Include="Assets\scripts\statecontrol.cs" />
      <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
