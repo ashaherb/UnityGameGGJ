@@ -10,8 +10,6 @@ public class groundmotion : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () { 
-
 		transform.Translate(new Vector3 (0f,- 1.2f, 0));
-	
 	}
 }
