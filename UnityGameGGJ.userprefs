@@ -2,10 +2,29 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Exit.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="Assets\scripts\HighScore.cs" Line="19" Column="1" />
       <File FileName="Assets\GUITest.cs" Line="12" Column="3" />
       <File FileName="Assets\Page1.cs" Line="1" Column="1" />
       <File FileName="Assets\Exit.cs" Line="6" Column="17" />
+=======
+      <File FileName="Assets\GUITest.cs" Line="17" Column="27" />
+      <File FileName="Assets\Scenes\NewBehaviourScript.cs" Line="5" Column="25" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerBehaviour.cs" Line="35" Column="41" />
+      <File FileName="Assets\groundmotion.cs" Line="18" Column="1" />
+      <File FileName="Assets\DestroyBasic.cs" Line="1" Column="1" />
+      <File FileName="Assets\tester.cs" Line="1" Column="1" />
+      <File FileName="Assets\navigation.cs" Line="1" Column="1" />
+<<<<<<< HEAD
+=======
+      <File FileName="Assets\groundmotion.cs" Line="14" Column="42" />
+>>>>>>> ee7a61a77e40c294def9a0557b575463f5c5232b
+>>>>>>> f068f0cd3ba915a9cbe7f5a3cf9263e5e07ef292
+>>>>>>> ca90f1f2029ff3cde704dc70bf66a763f9d29f59
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
