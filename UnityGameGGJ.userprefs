@@ -1,9 +1,19 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\NewBehaviourScript.cs">
     <Files>
       <File FileName="Assets\GUITest.cs" Line="17" Column="27" />
       <File FileName="Assets\Scenes\NewBehaviourScript.cs" Line="5" Column="25" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DestroyBasic.cs">
+    <Files>
+      <File FileName="Assets\DestroyBasic.cs" Line="9" Column="35" />
+      <File FileName="Assets\tester.cs" Line="13" Column="37" />
+      <File FileName="Assets\navigation.cs" Line="1" Column="1" />
+      <File FileName="Assets\groundmotion.cs" Line="14" Column="42" />
+>>>>>>> ee7a61a77e40c294def9a0557b575463f5c5232b
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
