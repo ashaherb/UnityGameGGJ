@@ -16,8 +16,8 @@ public class tester : MonoBehaviour {
 	void Update ()
 	{
 		flag++;
-		float newPosition = Mathf.Repeat(flag * scrollSpeed, tileSizeZ);
-		transform.position = startPosition + Vector3.up * newPosition;
+		float newPosition = Mathf.Repeat(flag*flag*flag  + scrollSpeed, tileSizeZ);
+		transform.position = startPosition + Vector3.down* newPosition;
 		//transform.position = Vector3(0 ,  0 , 0);
 	}
 }

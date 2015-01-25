@@ -3,12 +3,12 @@ using System.Collections;
 
 public class DestroyBasic : MonoBehaviour
 {
-	public GameObject background;
+	public GameObject Stone;
 	void Update ()
 	{
-		if(this.transform.position.y < -4.5)
+		if(this.transform.position.y <-400)
 		{
-			Instantiate(background);
+			Instantiate(this,new Vector3(-3.2f,506f,10f),Quaternion.identity);
 			Destroy(this);
 		}
 	}

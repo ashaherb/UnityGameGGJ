@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{F7A021DA-2E60-F64A-8A1B-7B260460676B}") = "UnityGameGGJ", "Assembly-CSharp-firstpass-vs.csproj", "{E8473F79-7153-0BF2-23DB-704A96E8EF3F}"
+EndProject
 Project("{F7A021DA-2E60-F64A-8A1B-7B260460676B}") = "UnityGameGGJ", "Assembly-CSharp-vs.csproj", "{3790DEFD-247B-17D5-3E61-675757C44488}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8473F79-7153-0BF2-23DB-704A96E8EF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8473F79-7153-0BF2-23DB-704A96E8EF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8473F79-7153-0BF2-23DB-704A96E8EF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8473F79-7153-0BF2-23DB-704A96E8EF3F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3790DEFD-247B-17D5-3E61-675757C44488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3790DEFD-247B-17D5-3E61-675757C44488}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3790DEFD-247B-17D5-3E61-675757C44488}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -17,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																										GlobalSection(MonoDevelopProperties) = preSolution
+																																						GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																					GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> 98e0ca39dd6bdd8a8794be63ff6bf7eae1f72739
